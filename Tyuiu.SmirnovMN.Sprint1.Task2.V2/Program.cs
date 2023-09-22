@@ -32,7 +32,7 @@ namespace Tyuiu.SmirnovMN.Sprint1.Task2.V2
             int x;
             Console.WriteLine("Введите значение X:");
             x = Convert.ToInt32(Console.ReadLine());
-
+            
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*Результат:                                                               *");
